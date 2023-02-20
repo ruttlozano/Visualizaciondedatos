@@ -23,4 +23,4 @@ Este proyecto esta compuesto por dos DATASETS, en cada uno extraje los datos mas
 Aprender a utilizar las librerias de PANDAS para analizar datos.
 
 ## 4. Link a Demo
-Aquí puedes visualizar mi proyecto terminado: [PROYECTO](#https://colab.research.google.com/drive/19WXMvV8V_5pkG7B2Idmd0UWvF714KD51#scrollTo=YTrZmdxMQG5B)
+Aquí puedes visualizar mi proyecto terminado: [PROYECTO](https://colab.research.google.com/drive/19WXMvV8V_5pkG7B2Idmd0UWvF714KD51#scrollTo=YTrZmdxMQG5B)
